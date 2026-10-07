@@ -1,1 +1,0 @@
-# sorteador-de-numeros
